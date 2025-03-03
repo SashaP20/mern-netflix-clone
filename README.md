@@ -16,7 +16,7 @@ JWT_SECRET=...
 NODE_ENV=development
 TMDB_API_KEY=....
 
-
+```
 
 ### **Run this app locally**
 
